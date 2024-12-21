@@ -107,6 +107,20 @@
         </a>
       </p>
     </td>
+    # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
+</details>
+
+
+
+| Overview | Follow up Issues & PRs |
+|:--------:|:-------------------------:|
+| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
+| Leetcode Stats | Notable Contributions |
+| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
+| Achievements | Language Activity |
+| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
+| Discussions | Reactions |
+| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
   </tr>
   <tr>
     <!-- <td width="50%">
