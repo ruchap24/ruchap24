@@ -89,7 +89,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ruchap24">
-          <img align="center" src="https://streak-stats.demolab.com?user=danujkumar&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=ruchap24&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -137,7 +137,7 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/ruchapatil" target="_blank">
+ <a href="https://www.linkedin.com/in/rucha-patil-9928b92a5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
