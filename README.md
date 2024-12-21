@@ -20,6 +20,7 @@
 <p align="left">"Hello, I'm Rucha Patil, a full stack web developer skilled in Android (Java), React, React Native, and proficient in backend development." </p>
 
 - ✨ Student of life :)
+- 🔭 I find joy in crafting elegant solutions through the art of coding.
 - 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
 - ❤ Contributing to Open Source.
   
@@ -28,16 +29,16 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ruchap24&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=ruchap24&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ruchap24" style="padding-right:20px;" />
 </p>
 
 ---
-<br />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=cpp,cs,java,js,html,css,md,mysql,latex&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=java,cpp,js,html,css,md,c,python,mysql,latex&perline=10"  />
 </p>
 
 <h2 align="center">Tools & Technology</h2> 
@@ -45,21 +46,21 @@
 <tr>
 <td>
 <p align="center">
-<img width="200px" src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,dotnet,androidstudio&perline=3" />
+<img width="200px" src="https://skillicons.dev/icons?i=react,express,angular,nodejs,mongodb,dotnet,androidstudio&perline=3" />
 </p>
 </td>
 <!--   dlf -->
 <td>
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=bash,git,vscode,visualstudio,postman,codepen&perline=3"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=bash,git,vscode,visualstudio,postman,adobe,photoshop,codepen&perline=3"  />
 </p>
 </td>
-<!--   dfd -->
-<!-- <td>
+  dfd -->
+<td>
 <p align="center">
 <img width="200px"  src="https://skillicons.dev/icons?i=figma,ai,ps,svg,tailwind,bootstrap&perline=3"  />
 </p>
-</td> -->
+</td>
 </tr>
 </table>
 <br />
