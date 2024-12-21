@@ -32,7 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=ruchap24&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ruchap24" style="padding-right:20px;" />
 </p>
 
----
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Languages and Tools Section-->       
@@ -49,29 +48,37 @@
 <img width="200px" src="https://skillicons.dev/icons?i=react,express,angular,nodejs,mongodb,dotnet,androidstudio&perline=3" />
 </p>
 </td>
-<!--   dlf -->
 <td>
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=bash,git,vscode,visualstudio,postman,adobe,photoshop,codepen&perline=3"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=bash,git,vscode,visualstudio,postman,codepen&perline=3"  />
 </p>
 </td>
   dfd -->
 <td>
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=figma,ai,ps,svg,tailwind,bootstrap&perline=3"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=figma,ai,ps,tailwind,bootstrap&perline=3"  />
 </p>
 </td>
 </tr>
 </table>
-<br />
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=danujkumar&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  </a>
+</div>
 </p>
-<br />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -114,15 +121,13 @@
     </td>
   </tr>
 </table>
-<br />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchap24&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
-
----
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
@@ -133,6 +138,7 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
+![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--Contact Section--> 
 
@@ -153,6 +159,7 @@
 </div>
 
 <!--Footer--> 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+</p> -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
