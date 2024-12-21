@@ -62,7 +62,7 @@
 </td>
 <td>
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=figma,ai,ps,tailwind,bootstrap&perline=3"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=figma,ai,ps,tailwind,bootstrap,nextjs&perline=3"  />
 </p>
 </td>
 </tr>
