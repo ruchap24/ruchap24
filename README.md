@@ -31,6 +31,13 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ruchap24&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ruchap24" style="padding-right:20px;" />
 </p>
+<a href="https://www.linkedin.com/in/rucha-patil-9928b92a5/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:patilrucha991@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=patilrucha991@gmail.com mail style="margin-bottom: 5px;" />
+</a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -45,7 +52,7 @@
 <tr>
 <td>
 <p align="center">
-<img width="200px" src="https://skillicons.dev/icons?i=react,express,angular,nodejs,mongodb,dotnet,androidstudio&perline=3" />
+<img width="200px" src="https://skillicons.dev/icons?i=react,express,angular,nodejs,mongodb,dotnet&perline=3" />
 </p>
 </td>
 <td>
@@ -53,7 +60,6 @@
 <img width="200px"  src="https://skillicons.dev/icons?i=bash,git,vscode,visualstudio,postman,codepen&perline=3"  />
 </p>
 </td>
-  dfd -->
 <td>
 <p align="center">
 <img width="200px"  src="https://skillicons.dev/icons?i=figma,ai,ps,tailwind,bootstrap&perline=3"  />
@@ -111,15 +117,15 @@
         </a>
       </p>
     </td> -->
-    <td width="50%">
+    <!-- <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/ruchap24">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ruchap24&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
-    </td>
-  </tr>
+    </td> -->
+  <!-- </tr> -->
 </table>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -128,7 +134,7 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruchap24&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
@@ -138,11 +144,10 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<!-- <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/rucha-patil-9928b92a5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -150,7 +155,7 @@
   
 <a href="mailto:patilrucha991@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=patilrucha991@gmail.com mail style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 
 <!-- <a href="https://twitter.com/HarshDewangan10" target="_blank">
