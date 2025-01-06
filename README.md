@@ -17,7 +17,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">"Hello, I'm Rucha Patil, a full stack web developer skilled in Android (Java), React, React Native, and proficient in backend development." </p>
+<p align="left">"Hello, I'm Rucha Patil, a full stack web developer." </p>
 
 - ✨ Student of life :)
 - 🔭 I find joy in crafting elegant solutions through the art of coding.
