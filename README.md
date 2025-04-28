@@ -31,7 +31,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ruchap24&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ruchap24" style="padding-right:20px;" />
 </p>
-<a href="https://www.linkedin.com/in/rucha-patil-9928b92a5/" target="_blank">
+<a href="https://www.linkedin.com/in/ruchap18/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
