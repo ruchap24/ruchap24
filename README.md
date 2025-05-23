@@ -44,10 +44,10 @@
 <!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2> 
-<p align="center">
+<!--<h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2> -->
+<!-- <p align="center">
 <img width="600px"  src="https://skillicons.dev/icons?i=java,cpp,js,html,css,md,c,python,mysql,latex&perline=10"  />
-</p>
+</p> -->
 
 <h2 align="center">Tools & Technology</h2> 
 <table width="100%" align="center">
@@ -67,6 +67,13 @@
 <img width="200px"  src="https://skillicons.dev/icons?i=figma,ai,ps,tailwind,bootstrap,nextjs&perline=3"  />
 </p>
 </td>
+<td>
+<p align="center">
+<img width="200px"  src="https://skillicons.dev/icons?i=java,cpp,js,c,python,mysql&perline=10"  />
+</p>
+</td>
+
+  
 </tr>
 </table>
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
