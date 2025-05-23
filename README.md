@@ -3,7 +3,7 @@
 <!--  -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=800&height=100&lines=2nd+Year+Student,;Front End Developer👨‍💻,;Active+Learner/Researcher..📖,;Love+to+learn+new+stuffs..<3..🤓"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan& size=30&center=true&vCenter=true&width=800&height=100&lines=2nd+Year+Student,;Front End Developer👨‍💻,;Active+Learner/Researcher..📖,;Love+to+learn+new+stuffs..<3..🤓"></a>
 </p>
 
 <!--Night Owl image-->
@@ -28,7 +28,7 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ruchap24&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ruchap24" style="padding-right:20px;" />
 </p>
 <a href="https://www.linkedin.com/in/ruchap18/" target="_blank">
@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=patilrucha991@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 </br>
+-->
 
 <!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
 
