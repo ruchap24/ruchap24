@@ -28,14 +28,14 @@
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<!-- <p align="left">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ruchap24&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ruchap24" style="padding-right:20px;" />
 </p>
-<a href="https://www.linkedin.com/in/ruchap18/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/ruchap18/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a> -->
   
-<a href="mailto:patilrucha991@gmail.com" target="_blank">
+<!-- <a href="mailto:patilrucha991@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=patilrucha991@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 </br>
