@@ -1,5 +1,5 @@
 <!--Banner-->
-<h1 align="center"><b>Hi , I'm Rucha Patil, </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Rucha, </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">"Hello, I'm Rucha Patil, a full stack web developer." </p>
+<p align="left">"Hello, I'm Rucha, a full stack web developer." </p>
 
 - ✨ Student of life :)
 - 🔭 I find joy in crafting elegant solutions through the art of coding.
@@ -157,14 +157,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:patilrucha991@gmail.com" target="_blank">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=patilrucha991@gmail.com mail style="margin-bottom: 5px;" />
 </a> -->
 
-
-<!-- <a href="https://twitter.com/HarshDewangan10" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a> -->
 </div>
 
 <!--Footer--> 
